@@ -38,4 +38,4 @@ def connect_dydx():
     print("Quote Balance: ", quote_balance)
 
     # Return Client
-    return Client
+    return client
